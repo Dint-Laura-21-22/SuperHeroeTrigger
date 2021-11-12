@@ -1,0 +1,15 @@
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\bin\Debug\SuperheroesMVVM.exe.config
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\bin\Debug\SuperheroesMVVM.exe
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\bin\Debug\SuperheroesMVVM.pdb
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM.csproj.AssemblyReference.cache
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\App.g.cs
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM_MarkupCompile.cache
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM_MarkupCompile.lref
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\MainWindow.baml
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM.g.resources
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM.Properties.Resources.resources
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM.csproj.GenerateResource.cache
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM.exe
+C:\Users\alumno\Source\Repos\SuperheroesMVVM\SuperheroesMVVM\obj\Debug\SuperheroesMVVM.pdb
